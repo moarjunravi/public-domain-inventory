@@ -1,0 +1,5 @@
+allowdom1.com
+allowdom2.com
+allowdom3.com
+allowdom4.com
+allowdom5.com
