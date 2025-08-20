@@ -2,3 +2,6 @@ blocklistdom1.com
 blocklistdom2.com
 blocklistdom3.com
 blocklistdom4.com
+common1dom.com
+common2dom.com
+common3dom.com
