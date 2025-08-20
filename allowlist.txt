@@ -3,3 +3,6 @@ allowdom2.com
 allowdom3.com
 allowdom4.com
 allowdom5.com
+common1dom.com
+common2dom.com
+common3dom.com
